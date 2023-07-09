@@ -1,0 +1,6 @@
+
+[settings]
+
+	[settings.commands]
+		"obfuscate_\"/housingitems\"_housing_items" = false
+
